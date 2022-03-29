@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Style" parent="Widget.Material3.ActionMode">
+        <item name="android:background">#FBFAFA</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#F8F6F6</item>
+    </style>
+</resources>
